@@ -5,15 +5,15 @@
     "passes": 0,
     "pending": 0,
     "failures": 6,
-    "start": "2024-07-18T09:32:21.520Z",
-    "end": "2024-07-18T09:32:22.365Z",
-    "duration": 845
+    "start": "2024-07-18T09:47:29.915Z",
+    "end": "2024-07-18T09:47:30.681Z",
+    "duration": 766
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "ReferenceError: companyName is not defined\n    at Context.<anonymous> (test/indexTest.js:11:14)\n    at process.processImmediate (node:internal/timers:476:21)",
@@ -23,7 +23,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 4,
+      "duration": 5,
       "currentRetry": 0,
       "err": {
         "message": "Expected companyName to be a const: expected '// Code your solution in this file!\\n' to match /const companyName/",
@@ -45,7 +45,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "Expected mostProfitableNeighborhood to be defined using let: expected '// Code your solution in this file!\\n' to match /let mostProfitableNeighborhood/",
@@ -67,7 +67,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 0,
+      "duration": 2,
       "currentRetry": 0,
       "err": {
         "message": "Expected companyCeo to be defined using let: expected '// Code your solution in this file!\\n' to match /let companyCeo/",
@@ -82,7 +82,7 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "ReferenceError: companyName is not defined\n    at Context.<anonymous> (test/indexTest.js:11:14)\n    at process.processImmediate (node:internal/timers:476:21)",
@@ -92,7 +92,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 4,
+      "duration": 5,
       "currentRetry": 0,
       "err": {
         "message": "Expected companyName to be a const: expected '// Code your solution in this file!\\n' to match /const companyName/",
@@ -114,7 +114,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "Expected mostProfitableNeighborhood to be defined using let: expected '// Code your solution in this file!\\n' to match /let mostProfitableNeighborhood/",
@@ -136,7 +136,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 0,
+      "duration": 2,
       "currentRetry": 0,
       "err": {
         "message": "Expected companyCeo to be defined using let: expected '// Code your solution in this file!\\n' to match /let companyCeo/",
